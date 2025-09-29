@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+# Asset system MFU
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Asset System MFU เป็นระบบจัดการครุภัณฑ์ของมหาวิทยาลัยแม่ฟ้าหลวง (สำนัก IT)  
+ช่วยให้สามารถ **บันทึก ตรวจสอบ และติดตามสถานะทรัพย์สิน** ได้ง่ายและมีประสิทธิภาพ
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+ระบบนี้ถูกพัฒนาโดยใช้เทคโนโลยี:
+- Frontend: Vue + CSS + JavaScript
+- Backend: JavaScript
+- Database: MySQL
+
+เหมาะสำหรับเจ้าหน้าที่ IT หรือผู้ดูแลระบบครุภัณฑ์ในการติดตามและจัดการอุปกรณ์ของมหาวิทยาลัย
